@@ -112,7 +112,7 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
 | Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
-| Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/earner/earned/badge/23d5627c-938d-4be2-aua9-453274165685) |
+| Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
