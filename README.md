@@ -107,7 +107,7 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 |---|---|---|---|
 | Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
 | Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
-| Introduction to Python for DS & DE | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7) |
+| Introduction to Python for DS & DE | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | Databricks Fundamentals | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
