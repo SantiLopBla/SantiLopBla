@@ -2,7 +2,7 @@
 
 # Santiago López Blanco
 
-### Data Science Engineering Student · ML · Analytics · Business Intelligence
+### Data Science Engineering Student · ML · Analytics 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+raw+data+to+actionable+predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
 
