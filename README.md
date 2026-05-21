@@ -4,10 +4,11 @@
 
 ### Data Science Engineering Student · ML · Analytics · Business Intelligence
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+end-to-end+ML+pipelines;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+raw+data+to+actionable+predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiLopBla)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
 
 </div>
 
@@ -71,12 +72,12 @@ Retail sales analysis project focused on uncovering patterns and business insigh
 |---|---|---|---|
 | Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
 | Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
-| Introduction to Python for DS & DE | Databricks Academy | 2025 | — |
-| Databricks Fundamentals | Databricks Academy | 2025 | — |
-| BI Foundation (BIFPC) | Certiprof | 2025 | — |
-| Scrum Foundation (SFPC) | Certiprof | 2024 | — |
-| Business Agility (BAPC) | Certiprof | 2024 | — |
-| Intro to Data Science | Cisco Networking Academy | 2025 | — |
+| Introduction to Python for DS & DE | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| Databricks Fundamentals | Databricks Academy | 2025 | [Link](https://api.accredible.com/v1/obi/badge_assertions/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
+| Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
+| Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
+| Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/earner/earned/badge/23d5627c-938d-4be2-afa9-453274165685) |
 
 ---
 
@@ -99,5 +100,6 @@ Retail sales analysis project focused on uncovering patterns and business insigh
 I'm open to opportunities in data science, analytics, and BI. Feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
+[![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
 
 </div>
