@@ -73,7 +73,7 @@ Final course of the **Machine Learning Specialization** by DeepLearning.AI & Sta
 
 Google Cloud fundamentals covering core infrastructure, networking, storage, and data & ML services on GCP. Building cloud literacy to complement data science work.
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/training/foundations)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/paths/36)
 
   </td>
   </tr>
