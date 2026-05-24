@@ -30,6 +30,57 @@ Currently looking for my first professional role in **data science, data analyti
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🔨 Currently building
+
+> *What I'm actively working on right now*
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square)
+
+End-to-end machine learning project applied to retail warehouse sales data. Covers the full pipeline from data ingestion and feature engineering through model training and evaluation.
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
+
+[![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
+
+  </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📚 Currently learning
+
+> *Courses I'm actively taking right now*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning &nbsp; ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
+
+Final course of the **Machine Learning Specialization** by DeepLearning.AI & Stanford University (Andrew Ng). Covers clustering, anomaly detection, collaborative filtering, and RL fundamentals.
+
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+
+  </td>
+  <td width="50%" valign="top">
+
+### ☁️ Google Cloud Computing Foundations &nbsp; ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+
+Google Cloud fundamentals covering core infrastructure, networking, storage, and data & ML services on GCP. Building cloud literacy to complement data science work.
+
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/training/foundations)
+
+  </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech stack
 
 <table>
