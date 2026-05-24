@@ -22,27 +22,27 @@
 
 ## 👤 About me
 
-I'm a Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a strong analytical mindset and hands-on experience building machine learning pipelines from scratch.
+I’m a Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a strong analytical mindset and a passion for building machine learning pipelines from scratch.
 
-I enjoy the full data lifecycle — from cleaning messy datasets to deploying models that generate real business value. I'm particularly drawn to problems where data can change how an organization makes decisions.
+I enjoy the full data lifecycle — from cleaning messy datasets to deploying models that generate real business value. I’m particularly drawn to problems where data can change how an organization makes decisions.
 
-Currently looking for my first professional role in **data science, data analytics, or business intelligence** where I can contribute, grow, and keep building.
+Currently looking for my first professional role in **data science or data analytics** where I can contribute, grow, and keep building.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔨 Currently building
 
-> *What I'm actively working on right now*
+> *What I’m actively working on right now*
 
 <table>
   <tr>
     <td width="100%" valign="top">
 
-### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square)
+### 🟢 Warehouse Retail Sales ML   ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square)
 
-End-to-end machine learning project applied to retail warehouse sales data. Covers the full pipeline from data ingestion and feature engineering through model training and evaluation.
+End-to-end machine learning project applied to retail warehouse sales data. Covers the full pipeline from data ingestion and feature engineering through model training and evaluation. Developed on **Databricks Free Edition**.
 
-**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
+**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Databricks`
 
 [![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
 
@@ -54,22 +54,22 @@ End-to-end machine learning project applied to retail warehouse sales data. Cove
 
 ## 📚 Currently learning
 
-> *Courses I'm actively taking right now*
+> *Courses I’m actively taking right now*
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning &nbsp; ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
+### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning   ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
 
-Final course of the **Machine Learning Specialization** by DeepLearning.AI & Stanford University (Andrew Ng). Covers clustering, anomaly detection, collaborative filtering, and RL fundamentals.
+Final course of the **Machine Learning Specialization** by DeepLearning.AI & Stanford University. Covers clustering, anomaly detection, collaborative filtering, and RL fundamentals.
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
 
   </td>
   <td width="50%" valign="top">
 
-### ☁️ Google Cloud Computing Foundations &nbsp; ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### ☁️ Google Cloud Computing Foundations   ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 
 Google Cloud fundamentals covering core infrastructure, networking, storage, and data & ML services on GCP. Building cloud literacy to complement data science work.
 
@@ -126,6 +126,7 @@ Google Cloud fundamentals covering core infrastructure, networking, storage, and
     <td width="50%" valign="top">
 
 ### 🔵 Churn Prediction
+
 **End-to-End ML Pipeline**
 
 Built a complete ML pipeline to predict customer churn. Covers data ingestion, validation, feature engineering, model training (LR / RF / XGBoost), GridSearchCV tuning and full evaluation.
@@ -138,6 +139,7 @@ Built a complete ML pipeline to predict customer churn. Covers data ingestion, v
   <td width="50%" valign="top">
 
 ### 🟠 Zara Sales EDA
+
 **Exploratory Data Analysis**
 
 Retail sales analysis focused on uncovering patterns and business insights. Includes data cleaning, univariate and bivariate analysis, and visual storytelling.
@@ -154,16 +156,16 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year | Verify |
-|---|---|---|---|
-| Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
-| Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
-| Introduction to Python for DS & DE | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
-| Databricks Fundamentals | Databricks Academy | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
-| BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
-| Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
-| Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
-| Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
+|Certificate                               |Issuer                    |Year|Verify                                                                                 |
+|------------------------------------------|--------------------------|----|---------------------------------------------------------------------------------------|
+|Advanced Learning Algorithms              |Stanford / DeepLearning.AI|2026|[Link](https://coursera.org/verify/RDJ6SQPIY3FT)                                       |
+|Supervised ML: Regression & Classification|Stanford / DeepLearning.AI|2026|[Link](https://coursera.org/verify/7NZIHP3OY9EV)                                       |
+|Introduction to Python for DS & DE        |Databricks Academy        |2025|[Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746)        |
+|Databricks Fundamentals                   |Databricks Academy        |2025|[Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746)        |
+|BI Foundation (BIFPC)                     |Certiprof                 |2025|[Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b)|
+|Scrum Foundation (SFPC)                   |Certiprof                 |2024|[Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447)|
+|Business Agility (BAPC)                   |Certiprof                 |2024|[Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af)|
+|Intro to Data Science                     |Cisco Networking Academy  |2025|[Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url)  |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -186,11 +188,11 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's connect
+## 🤝 Let’s connect
 
 <div align="center">
 
-I'm open to opportunities in data science, analytics, and BI. Feel free to reach out.
+I’m open to opportunities in data science and analytics. Feel free to reach out.
 
 <br>
 
