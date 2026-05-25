@@ -4,14 +4,17 @@
 
 ### Data Science Engineering Student · ML & Analytics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF3621&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+on+Databricks;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+Raw+Data+to+Actionable+Predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF3621&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+on+Databricks;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+Raw+Data+to+Actionable+Predictions)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiLopBla)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
+&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
+&nbsp;
+[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
 <br>
 
@@ -19,7 +22,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👤 About me
 
@@ -27,105 +30,45 @@ Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a f
 I'm drawn to problems where data can change how an organization makes decisions — and I enjoy every step of the process, from raw data to actionable results.
 Currently looking for my first professional role in **data science or data analytics**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🔨 Currently building
 
 > *Turning data into decisions — one pipeline at a time*
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
+| Project | Status | Platform |
+|---|---|---|
+| **Warehouse Retail Sales ML** | ![](https://img.shields.io/badge/In_Progress-22c55e?style=flat-square) | ![](https://img.shields.io/badge/Databricks_Free_Edition-FF3621?style=flat-square&logo=databricks&logoColor=white) |
 
-### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Databricks_Free_Edition-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-End-to-end ML project built on the **Databricks platform**, applied to real-world retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
+End-to-end ML project built on the **Databricks platform**, applied to retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
 
 > *Goal: predict sales patterns and surface actionable insights from structured retail data.*
 
-**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Databricks`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Databricks` &nbsp; · &nbsp; [![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
 
-[![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
-
-  </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📚 Currently learning
 
 > *Constantly expanding — because the data landscape never stops moving*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| Course | Specialization | Status |
+|---|---|---|
+| 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning | Machine Learning Specialization · DeepLearning.AI & Stanford | ![](https://img.shields.io/badge/Course_3%2F3-f59e0b?style=flat-square) |
+| ☁️ Google Cloud Computing Foundations | Google Cloud Skills Boost | ![](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
 
-### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning &nbsp; ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
-
-Completing the **Machine Learning Specialization** by DeepLearning.AI & Stanford University — the final course covering clustering, anomaly detection, collaborative filtering, content-based recommender systems, and reinforcement learning fundamentals.
-
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
-
-  </td>
-  <td width="50%" valign="top">
-
-### ☁️ Google Cloud Computing Foundations &nbsp; ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
-
-Building foundational cloud expertise on GCP — covering core infrastructure, data storage, networking, and ML services. Developing cloud-native fluency to complement data engineering work on distributed platforms.
-
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/paths/36)
-
-  </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Tech stack
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
+| Category | Technologies |
+|---|---|
+| **Data & AI Platform** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Languages & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white) |
+| **Dev & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
-**Data & AI Platform**
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-  </td>
-  <td valign="top" width="25%">
-
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-  </td>
-  <td valign="top" width="25%">
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-
-  </td>
-  <td valign="top" width="25%">
-
-**Dev & Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-  </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🚀 Featured projects
 
@@ -133,24 +76,30 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
   <tr>
     <td width="50%" valign="top">
 
-### 🔵 Churn Prediction
+#### 🔵 Churn Prediction
 **End-to-End ML Pipeline**
 
-Production-style ML pipeline built to predict customer churn from telecom data. Implements a full workflow: ingestion → validation → feature engineering → model training (Logistic Regression, Random Forest, XGBoost) → hyperparameter tuning with GridSearchCV → evaluation with business-oriented metrics.
+Production-style ML pipeline to predict customer churn from telecom data.
 
-**Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas`
+`ingestion → validation → feature engineering → training → tuning → evaluation`
+
+Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
+
+`Python` `Scikit-learn` `XGBoost` `Pandas`
 
 [![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/churn-prediction)
 
   </td>
   <td width="50%" valign="top">
 
-### 🟠 Zara Sales EDA
+#### 🟠 Zara Sales EDA
 **Exploratory Data Analysis**
 
-Deep-dive retail analytics on Zara sales data — uncovering revenue patterns, product performance, and seasonality trends. Covers structured data cleaning, univariate and bivariate analysis, and business-oriented visual storytelling.
+Deep-dive retail analytics uncovering revenue patterns, product performance, and seasonality trends. Business-oriented visual storytelling.
 
-**Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
+`cleaning → univariate → bivariate → insights`
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
 
 [![Repo](https://img.shields.io/badge/View_repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
 
@@ -158,11 +107,9 @@ Deep-dive retail analytics on Zara sales data — uncovering revenue patterns, p
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📜 Certifications
-
-> ![Databricks](https://img.shields.io/badge/Databricks_Certified-FF3621?style=flat-square&logo=databricks&logoColor=white) Databricks certifications highlighted — core to my platform expertise
 
 | Certificate | Issuer | Year | Verify |
 |---|---|---|---|
@@ -175,7 +122,7 @@ Deep-dive retail analytics on Zara sales data — uncovering revenue patterns, p
 | Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
 | Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 GitHub stats
 
@@ -194,7 +141,7 @@ Deep-dive retail analytics on Zara sales data — uncovering revenue patterns, p
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🤝 Let's connect
 
@@ -204,8 +151,10 @@ I'm open to opportunities in data science and analytics — and actively pursuin
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
-[![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
+&nbsp;
+[![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
+&nbsp;
+[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
 </div>
