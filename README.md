@@ -27,7 +27,6 @@ Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a f
 I'm drawn to problems where data can change how an organization makes decisions — and I enjoy every step of the process, from raw data to actionable results.
 Currently looking for my first professional role in **data science or data analytics**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔨 Currently building
 
