@@ -2,7 +2,7 @@
 
 # Santiago López Blanco
 
-### Data Science Engineering Student · ML · Databricks Student Fellows Applicant
+### Data Science Engineering Student · ML & Analytics
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF3621&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+on+Databricks;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+Raw+Data+to+Actionable+Predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
 
