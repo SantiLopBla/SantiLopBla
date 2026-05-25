@@ -2,19 +2,20 @@
 
 # Santiago López Blanco
 
-### Data Science Engineering Student · ML · Analytics
+### Data Science Engineering Student · ML · Databricks Student Fellows Applicant
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+raw+data+to+actionable+predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF3621&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+on+Databricks;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+Raw+Data+to+Actionable+Predictions;Classification+%7C+Regression+%7C+Clustering)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiLopBla)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SantiLopBla&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SantiLopBla&color=FF3621&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -22,25 +23,25 @@
 
 ## 👤 About me
 
-I’m a Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a strong analytical mindset and a passion for building machine learning pipelines from scratch.
-
-I enjoy the full data lifecycle — from cleaning messy datasets to deploying models that generate real business value. I’m particularly drawn to problems where data can change how an organization makes decisions.
-
-Currently looking for my first professional role in **data science or data analytics** where I can contribute, grow, and keep building.
+Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a focus on machine learning and end-to-end data pipelines.
+I'm drawn to problems where data can change how an organization makes decisions — and I enjoy every step of the process, from raw data to actionable results.
+Currently looking for my first professional role in **data science or data analytics**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔨 Currently building
 
-> *What I’m actively working on right now*
+> *Turning data into decisions — one pipeline at a time*
 
 <table>
   <tr>
     <td width="100%" valign="top">
 
-### 🟢 Warehouse Retail Sales ML   ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square)
+### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-22c55e?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Databricks_Free_Edition-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-End-to-end machine learning project applied to retail warehouse sales data. Covers the full pipeline from data ingestion and feature engineering through model training and evaluation. Developed on **Databricks Free Edition**.
+End-to-end ML project built on the **Databricks platform**, applied to real-world retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
+
+> *Goal: predict sales patterns and surface actionable insights from structured retail data.*
 
 **Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Databricks`
 
@@ -54,24 +55,24 @@ End-to-end machine learning project applied to retail warehouse sales data. Cove
 
 ## 📚 Currently learning
 
-> *Courses I’m actively taking right now*
+> *Constantly expanding — because the data landscape never stops moving*
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning   ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
+### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning &nbsp; ![Progress](https://img.shields.io/badge/Course_3%2F3-In_Progress-f59e0b?style=flat-square)
 
-Final course of the **Machine Learning Specialization** by DeepLearning.AI & Stanford University. Covers clustering, anomaly detection, collaborative filtering, and RL fundamentals.
+Completing the **Machine Learning Specialization** by DeepLearning.AI & Stanford University — the final course covering clustering, anomaly detection, collaborative filtering, content-based recommender systems, and reinforcement learning fundamentals.
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
 
   </td>
   <td width="50%" valign="top">
 
-### ☁️ Google Cloud Computing Foundations   ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### ☁️ Google Cloud Computing Foundations &nbsp; ![Progress](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 
-Google Cloud fundamentals covering core infrastructure, networking, storage, and data & ML services on GCP. Building cloud literacy to complement data science work.
+Building foundational cloud expertise on GCP — covering core infrastructure, data storage, networking, and ML services. Developing cloud-native fluency to complement data engineering work on distributed platforms.
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/paths/36)
 
@@ -85,7 +86,16 @@ Google Cloud fundamentals covering core infrastructure, networking, storage, and
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
+
+**Data & AI Platform**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+  </td>
+  <td valign="top" width="25%">
 
 **Languages & Data**
 
@@ -95,7 +105,7 @@ Google Cloud fundamentals covering core infrastructure, networking, storage, and
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
   </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
 
 **Machine Learning**
 
@@ -103,12 +113,10 @@ Google Cloud fundamentals covering core infrastructure, networking, storage, and
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
 
   </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
 
-**Tools & Platforms**
+**Dev & Version Control**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -126,10 +134,9 @@ Google Cloud fundamentals covering core infrastructure, networking, storage, and
     <td width="50%" valign="top">
 
 ### 🔵 Churn Prediction
-
 **End-to-End ML Pipeline**
 
-Built a complete ML pipeline to predict customer churn. Covers data ingestion, validation, feature engineering, model training (LR / RF / XGBoost), GridSearchCV tuning and full evaluation.
+Production-style ML pipeline built to predict customer churn from telecom data. Implements a full workflow: ingestion → validation → feature engineering → model training (Logistic Regression, Random Forest, XGBoost) → hyperparameter tuning with GridSearchCV → evaluation with business-oriented metrics.
 
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas`
 
@@ -139,10 +146,9 @@ Built a complete ML pipeline to predict customer churn. Covers data ingestion, v
   <td width="50%" valign="top">
 
 ### 🟠 Zara Sales EDA
-
 **Exploratory Data Analysis**
 
-Retail sales analysis focused on uncovering patterns and business insights. Includes data cleaning, univariate and bivariate analysis, and visual storytelling.
+Deep-dive retail analytics on Zara sales data — uncovering revenue patterns, product performance, and seasonality trends. Covers structured data cleaning, univariate and bivariate analysis, and business-oriented visual storytelling.
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
 
@@ -156,16 +162,18 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 
 ## 📜 Certifications
 
-|Certificate                               |Issuer                    |Year|Verify                                                                                 |
-|------------------------------------------|--------------------------|----|---------------------------------------------------------------------------------------|
-|Advanced Learning Algorithms              |Stanford / DeepLearning.AI|2026|[Link](https://coursera.org/verify/RDJ6SQPIY3FT)                                       |
-|Supervised ML: Regression & Classification|Stanford / DeepLearning.AI|2026|[Link](https://coursera.org/verify/7NZIHP3OY9EV)                                       |
-|Introduction to Python for DS & DE        |Databricks Academy        |2025|[Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)        |
-|Databricks Fundamentals                   |Databricks Academy        |2025|[Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746)        |
-|BI Foundation (BIFPC)                     |Certiprof                 |2025|[Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b)|
-|Scrum Foundation (SFPC)                   |Certiprof                 |2024|[Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447)|
-|Business Agility (BAPC)                   |Certiprof                 |2024|[Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af)|
-|Intro to Data Science                     |Cisco Networking Academy  |2025|[Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url)  |
+> ![Databricks](https://img.shields.io/badge/Databricks_Certified-FF3621?style=flat-square&logo=databricks&logoColor=white) Databricks certifications highlighted — core to my platform expertise
+
+| Certificate | Issuer | Year | Verify |
+|---|---|---|---|
+| Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
+| Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
+| 🔶 Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
+| 🔶 Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
+| Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
+| Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
+| Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -182,21 +190,22 @@ Retail sales analysis focused on uncovering patterns and business insights. Incl
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiLopBla&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiLopBla&theme=github-compact&hide_border=true&color=FF3621&line=FF3621&point=ffffff" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let’s connect
+## 🤝 Let's connect
 
 <div align="center">
 
-I’m open to opportunities in data science and analytics. Feel free to reach out.
+I'm open to opportunities in data science and analytics — and actively pursuing the **Databricks Student Fellows Program**. Feel free to reach out.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lópez-blanco-420886342)
 [![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
+[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
 </div>
