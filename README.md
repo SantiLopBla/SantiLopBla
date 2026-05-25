@@ -21,8 +21,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 👤 About me
 
 Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a focus on machine learning and end-to-end data pipelines.
@@ -55,8 +53,6 @@ End-to-end ML project built on the **Databricks platform**, applied to retail wa
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📚 Currently learning
 
 > *Constantly expanding — because the data landscape never stops moving*
@@ -83,8 +79,6 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
   </td>
   </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech stack
 
@@ -129,8 +123,6 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 Featured projects
 
 <table>
@@ -168,24 +160,20 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📜 Certifications
-
-> 🔶 Databricks certifications highlighted — core to my platform expertise
 
 | Certificate | Issuer | Year | Verify |
 |---|---|---|---|
 | Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
 | Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
-| 🔶 Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
-| 🔶 Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
+| Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
 | Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
 | Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub stats
 
@@ -204,7 +192,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's connect
 
