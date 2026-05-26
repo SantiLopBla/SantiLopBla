@@ -8,12 +8,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/santiago-lópez-blanco-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lópez-blanco-ds)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
 &nbsp;&nbsp;
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-&nbsp;&nbsp;
 
 <br>
 
@@ -25,8 +24,7 @@
 
 Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a focus on machine learning and end-to-end data pipelines.
 I'm drawn to problems where data can change how an organization makes decisions — and I enjoy every step of the process, from raw data to actionable results.
-Currently looking for my first professional role in **data science or data analytics**.
-
+Currently looking for my first professional role in **data science**.
 
 ## 🔨 Currently building
 
@@ -38,7 +36,7 @@ Currently looking for my first professional role in **data science or data analy
 
 ### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/In_Progress-22c55e?style=flat-square) &nbsp; ![Platform](https://img.shields.io/badge/Databricks_Free_Edition-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-End-to-end ML project built on the **Databricks platform**, applied to retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
+End-to-end ML project built on the **Databricks Free Edition platform**, applied to retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
 
 > *Goal: predict sales patterns and surface actionable insights from structured retail data.*
 
@@ -159,7 +157,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
   </tr>
 </table>
 
-
 ## 📜 Certifications
 
 | Certificate | Issuer | Year | Verify |
@@ -172,7 +169,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 | Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
 | Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
 | Intro to Data Science | Cisco Networking Academy | 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
-
 
 ## 📊 GitHub stats
 
@@ -191,7 +187,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 </div>
 
-
 ## 🤝 Let's connect
 
 <div align="center">
@@ -200,7 +195,7 @@ I'm open to opportunities in data science and analytics — and actively pursuin
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/santiago-lópez-blanco-ds)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lópez-blanco-ds)
 &nbsp;&nbsp;
 [![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
 &nbsp;&nbsp;
