@@ -10,10 +10,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lópez-blanco-ds)
 &nbsp;&nbsp;
+[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
 &nbsp;&nbsp;
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
+
 
 <br>
 
