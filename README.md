@@ -56,16 +56,7 @@ End-to-end ML project built on the **Databricks Free Edition platform**, applied
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning &nbsp; ![Progress](https://img.shields.io/badge/Course_3%2F3-f59e0b?style=flat-square)
-
-Completing the **Machine Learning Specialization** by DeepLearning.AI & Stanford University — final course covering clustering, anomaly detection, collaborative filtering, content-based recommenders, and reinforcement learning fundamentals.
-
-[![Coursera](https://img.shields.io/badge/View_on_Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
-
-  </td>
-  <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 ### ☁️ Google Cloud Computing Foundations &nbsp; ![Progress](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square)
 
@@ -76,7 +67,6 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
   </td>
   </tr>
 </table>
-
 ## 🛠️ Tech stack
 
 <table>
@@ -161,8 +151,7 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 | Certificate | Issuer | Year | Verify |
 |---|---|---|---|
-| Advanced Learning Algorithms | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/RDJ6SQPIY3FT) |
-| Supervised ML: Regression & Classification | Stanford / DeepLearning.AI | 2026 | [Link](https://coursera.org/verify/7NZIHP3OY9EV) |
+| Machine Learning Specialization | Stanford / DeepLearning.AI | 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
 | Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
 | Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
