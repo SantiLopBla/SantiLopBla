@@ -16,8 +16,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SantiLopBla&color=FF3621&style=flat-square&label=Profile+Views)
-
 </div>
 
 ## 👤 About me
