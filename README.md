@@ -15,7 +15,6 @@
 &nbsp;&nbsp;
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
 
-
 <br>
 
 </div>
@@ -25,30 +24,6 @@
 Data Science Engineering student at Universidad Fidélitas (Costa Rica) with a focus on machine learning and end-to-end data pipelines.
 I'm drawn to problems where data can change how an organization makes decisions — and I enjoy every step of the process, from raw data to actionable results.
 Currently looking for my first professional role in **data science**.
-
-## 🔨 Currently building
-
-> *Turning data into decisions — one pipeline at a time*
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-
-### 🟢 Warehouse Retail Sales ML &nbsp; ![Status](https://img.shields.io/badge/In_Progress-22c55e?style=flat-square) &nbsp; ![Platform](https://img.shields.io/badge/Databricks_Free_Edition-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-End-to-end ML project built on the **Databricks Free Edition platform**, applied to retail warehouse sales data. The pipeline covers data ingestion, exploratory analysis, feature engineering, model training, hyperparameter tuning, and evaluation — mirroring production-grade data workflows.
-
-> *Goal: predict sales patterns and surface actionable insights from structured retail data.*
-
-`Python` &nbsp; `Scikit-learn` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Databricks`
-
-<br>
-
-[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
-
-  </td>
-  </tr>
-</table>
 
 ## 📚 Currently learning
 
@@ -67,6 +42,7 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
   </td>
   </tr>
 </table>
+
 ## 🛠️ Tech stack
 
 <table>
@@ -76,8 +52,10 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
 **Data & AI Platform**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
   </td>
   <td valign="top" width="25%">
@@ -95,6 +73,7 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
 **Machine Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=flat-square&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
 
   </td>
@@ -104,17 +83,34 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
   </td>
   </tr>
 </table>
 
-## 🚀 Featured projects
+## 🚀 Featured projects — Machine Learning
 
 <table>
   <tr>
     <td width="50%" valign="top">
+
+### 🟠 Warehouse & Retail Sales ML
+**End-to-End ML Pipeline · Databricks**
+
+End-to-end demand forecasting pipeline on **Databricks** using the Medallion Architecture (Bronze → Silver → Gold) on 307,645 real government sales transactions.
+
+`ingestion → EDA → feature engineering → training → MLflow tracking → forecast`
+
+Best model: **LightGBM · R² 96.81% · MAE $279** on 2020 test set (COVID year).
+
+`Python` &nbsp; `Apache Spark` &nbsp; `Delta Lake` &nbsp; `MLflow` &nbsp; `LightGBM` &nbsp; `XGBoost`
+
+[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
+
+  </td>
+  <td width="50%" valign="top">
 
 ### 🔵 Churn Prediction
 **End-to-End ML Pipeline**
@@ -130,9 +126,16 @@ Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/churn-prediction)
 
   </td>
-  <td width="50%" valign="top">
+  </tr>
+</table>
 
-### 🟠 Zara Sales EDA
+## 📂 Other projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🟡 Zara Sales EDA
 **Exploratory Data Analysis**
 
 Deep-dive retail analytics uncovering revenue patterns, product performance, and seasonality trends. Business-oriented visual storytelling.
@@ -143,6 +146,8 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
 
+  </td>
+    <td width="50%" valign="top">
   </td>
   </tr>
 </table>
