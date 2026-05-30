@@ -131,12 +131,7 @@ Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
 
 ## 📂 Other projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🟡 Zara Sales EDA
-**Exploratory Data Analysis**
+### 🟡 Zara Sales EDA — Exploratory Data Analysis
 
 Deep-dive retail analytics uncovering revenue patterns, product performance, and seasonality trends. Business-oriented visual storytelling.
 
@@ -145,12 +140,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 `Python` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Seaborn`
 
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
-
-  </td>
-    <td width="50%" valign="top">
-  </td>
-  </tr>
-</table>
 
 ## 📜 Certifications
 
