@@ -146,6 +146,7 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 | Certificate | Issuer | Year | Verify |
 |---|---|---|---|
 | Machine Learning Specialization | Stanford / DeepLearning.AI | 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
+| Generative AI Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/77d2610b-0e6e-459f-ac92-d63373e33760#acc.Cc0L3UPG) |
 | Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
 | Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
