@@ -55,6 +55,7 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
   </td>
   <td valign="top" width="25%">
@@ -96,13 +97,13 @@ Building foundational cloud expertise on GCP — covering core infrastructure, d
     <td width="50%" valign="top">
 
 ### 🟠 Warehouse & Retail Sales ML
-**End-to-End ML Pipeline · Databricks**
+**Demand Forecasting · Databricks**
 
-End-to-end demand forecasting pipeline on **Databricks** using the Medallion Architecture (Bronze → Silver → Gold) on 307,645 real government sales transactions.
+Built a machine learning pipeline to predict monthly product demand for a wholesale liquor distributor, using 307,645 real sales transactions from a U.S. government dataset.
 
-`ingestion → EDA → feature engineering → training → MLflow tracking → forecast`
+`data ingestion → cleaning → analysis → modeling → forecast`
 
-Best model: **LightGBM · R² 96.81% · MAE $279** on 2020 test set (COVID year).
+Compared 4 models. Best result: **LightGBM · 96.81% accuracy · mean error of $279 per prediction**, tested on 2020 data — a COVID year the model never saw during training.
 
 `Python` &nbsp; `Apache Spark` &nbsp; `Delta Lake` &nbsp; `MLflow` &nbsp; `LightGBM` &nbsp; `XGBoost`
 
@@ -146,8 +147,8 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 |---|---|---|---|
 | Machine Learning Specialization | Stanford / DeepLearning.AI | 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
 | Generative AI Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/77d2610b-0e6e-459f-ac92-d63373e33760#acc.Cc0L3UPG) |
-| Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
-| Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746#acc.SlZ5xkHn) |
+| Introduction to Python for DS & DE | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
+| Databricks Fundamentals | **Databricks Academy** | 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
 | BI Foundation (BIFPC) | Certiprof | 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Scrum Foundation (SFPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
 | Business Agility (BAPC) | Certiprof | 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
