@@ -27,7 +27,7 @@ Currently looking for my first professional role in **data science**.
 
 ## 📚 Currently learning
 
-> *Constantly expanding — because the data landscape never stops moving*
+> *Constantly expanding*
 
 <table>
   <tr>
@@ -189,7 +189,7 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 <div align="center">
 
-I’m open to opportunities in data science and analytics — and actively pursuing the **Databricks Student Fellows Program**. Feel free to reach out.
+I’m open to opportunities in data science and analytics. Feel free to reach out.
 
 <br>
 
