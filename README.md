@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lópez-blanco-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lppez-blanco-ds)
   
 [![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
@@ -193,7 +193,7 @@ I’m open to opportunities in data science and analytics. Feel free to reach ou
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lópez-blanco-ds)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-lopez-blanco-ds)
   
 [![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
   
