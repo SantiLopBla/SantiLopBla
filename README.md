@@ -8,11 +8,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-lopez-blanco-ds)
+  
 [![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
-  
+  
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
 
 <br>
@@ -33,7 +33,7 @@ Currently looking for my first professional role in **data science**.
   <tr>
     <td width="100%" valign="top">
 
-### ☁️ Google Cloud Computing Foundations   ![Progress](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square)
+### ☁️ Google Cloud Computing Foundations   ![Progress](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square)
 
 Building foundational cloud expertise on GCP — covering core infrastructure, data storage, networking, and ML services. Developing cloud-native fluency to complement data engineering work on distributed platforms.
 
@@ -111,7 +111,7 @@ Built a machine learning pipeline to predict monthly product demand for a wholes
 
 Compared 4 models. Best result: **LightGBM · 96.81% accuracy · mean error of $279 per prediction**, tested on 2020 data — a COVID year the model never saw during training.
 
-`Python`   `Apache Spark`   `Delta Lake`   `MLflow`   `LightGBM`   `XGBoost`
+`Python`   `Apache Spark`   `Delta Lake`   `MLflow`   `LightGBM`   `XGBoost`
 
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
 
@@ -128,7 +128,7 @@ Production-style ML pipeline to predict customer churn from telecom data. Full w
 
 Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
 
-`Python`   `Scikit-learn`   `XGBoost`   `Pandas`
+`Python`   `Scikit-learn`   `XGBoost`   `Pandas`
 
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/churn-prediction)
 
@@ -144,7 +144,7 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 
 `cleaning → univariate analysis → bivariate analysis → insights`
 
-`Python`   `Pandas`   `Matplotlib`   `Seaborn`
+`Python`   `Pandas`   `Matplotlib`   `Seaborn`
 
 [![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
 
@@ -193,10 +193,10 @@ I’m open to opportunities in data science and analytics. Feel free to reach ou
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
-  
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-lopez-blanco-ds)
+  
 [![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-  
+  
 [![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
 </div>
