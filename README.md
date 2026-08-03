@@ -153,7 +153,6 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 | Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
 | Introduction to Python for DS & DE | Databricks Academy | Dec 2025 | [Link](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
 | Databricks Fundamentals | Databricks Academy | Nov 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
-| Basic Excel (Virtual) | Universidad Fidélitas | Aug 2025 | Available on request |
 | Introduction to Data Science | Cisco Networking Academy | Jun 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 | Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Business Agility (BAPC) | Certiprof | Dec 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
