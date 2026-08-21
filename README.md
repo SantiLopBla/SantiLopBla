@@ -23,22 +23,6 @@ Data Science Engineering student at Universidad Fidélitas (Costa Rica), focused
 
 Currently seeking my first professional role in **data science / data analytics**.
 
-## 📚 Currently learning
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-
-### ☁️ Google Cloud Computing Foundations &nbsp;![Progress](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square)
-
-Building foundational cloud expertise on GCP — core infrastructure, data storage, networking, and ML services — to complement data engineering work on distributed platforms.
-
-[![Google Cloud](https://img.shields.io/badge/View_on_Google_Skills-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/paths/36)
-
-  </td>
-  </tr>
-</table>
-
 ## 🛠️ Tech stack
 
 <table>
