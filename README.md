@@ -114,6 +114,28 @@ Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
 
   </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🟣 Kitsune Network Anomaly Detection
+
+**Network Intrusion Detection · Databricks — In progress**
+
+Medallion Architecture pipeline built on the Kitsune Network Attack dataset (UCI, SYN DoS subset) to detect anomalous network traffic at scale.
+
+`bronze (raw ingestion) → silver (transformation) → gold (feature store / modeling)`
+
+Bronze layer complete: Unity Catalog structure, Delta table with **2,771,276 rows**, 115 renamed features, labels joined via `monotonically_increasing_id()`. Silver transformation notebook next.
+
+`Python` `PySpark` `Databricks` `Delta Lake` `Unity Catalog`
+
+[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/kitsune-network-anomaly-detection)
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+  </tr>
 </table>
 
 ## 📂 Other projects
@@ -137,10 +159,15 @@ Deep-dive retail analytics uncovering revenue patterns, product performance, and
 | Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
 | Introduction to Python for DS & DE | Databricks Academy | Dec 2025 | [Link](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
 | Databricks Fundamentals | Databricks Academy | Nov 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| Excel Básico (Virtual) | Universidad Fidélitas | Aug 2025 | — |
 | Introduction to Data Science | Cisco Networking Academy | Jun 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
 | Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
 | Business Agility (BAPC) | Certiprof | Dec 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
 | Scrum Foundation (SFPC) | Certiprof | Dec 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
+
+**In progress**
+- Microsoft Azure Databricks Data Engineer Associate (DP-750) — exam scheduled October 2026
+- Google Cloud Computing Foundations — Google Skills Boost (Universidad Latina & Google scholarship)
 
 ## 🌐 Languages
 
