@@ -1,189 +1,194 @@
 <div align="center">
 
-# Santiago López Blanco
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3139,100:FF3621&height=150&section=header&text=Santiago%20L%C3%B3pez%20Blanco&fontColor=FFFFFF&fontSize=40&fontAlignY=42&desc=Data%20Engineering%20%C2%B7%20Data%20Quality%20%C2%B7%20Databricks&descAlignY=70&descSize=16" width="100%"/>
 
-### Data Science Engineering Student · ML & Analytics
+**Data Science Engineering Student · Microsoft Certified: Azure Databricks Data Engineer Associate**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF3621&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+on+Databricks;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Tuning;From+Raw+Data+to+Actionable+Predictions)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
-[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3139?style=flat-square&logo=linkedin&logoColor=FF3621)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
+[![Databricks](https://img.shields.io/badge/Databricks_Credentials-1B3139?style=flat-square&logo=databricks&logoColor=FF3621)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
+[![Credly](https://img.shields.io/badge/Credly-1B3139?style=flat-square&logo=credly&logoColor=FF3621)](https://www.credly.com/users/santiago-lopez-blanco)
+[![Email](https://img.shields.io/badge/Email-1B3139?style=flat-square&logo=gmail&logoColor=FF3621)](mailto:santilopbla06@gmail.com)
 
 </div>
 
-## 👤 About me
+---
 
-Data Science Engineering student at Universidad Fidélitas (Costa Rica), focused on machine learning and end-to-end data pipelines. I'm drawn to problems where data changes how an organization makes decisions, and I enjoy the full process — from raw data to production-ready predictions.
+## About
 
-Currently seeking my first professional role in **data science / data analytics**.
+Data Science Engineering student at Universidad Fidélitas, Costa Rica (GPA 95.9/100, expected graduation Oct 2027). I build data pipelines on Databricks with PySpark, Delta Lake and Unity Catalog, with a focus on data quality: pipelines that validate data and fail fast instead of passing bad data downstream.
 
-## 🛠️ Tech stack
+I also lead a 4-person interdisciplinary university team building a multi-branch inventory system for a real pharmacy client.
+
+**Open to:** data engineering, data analytics and data science internships or entry-level roles · Costa Rica (GAM) or remote.
+
+---
+
+## Tech Stack
 
 <table>
-  <tr>
-    <td valign="top" width="25%">
+<tr>
+<td valign="top" width="25%">
 
-**Data & AI Platform**
+**Data Platform**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1B3139?style=flat-square&logo=databricks&logoColor=FF3621)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1B3139?style=flat-square&logo=apachespark&logoColor=FF3621)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-1B3139?style=flat-square)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-1B3139?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-1B3139?style=flat-square&logo=mlflow&logoColor=FF3621)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_(Foundations)-1B3139?style=flat-square&logo=googlecloud&logoColor=FF3621)
 
-  </td>
-  <td valign="top" width="25%">
+</td>
+<td valign="top" width="25%">
 
 **Languages & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B3139?style=flat-square&logo=python&logoColor=FF3621)
+![PySpark](https://img.shields.io/badge/PySpark-1B3139?style=flat-square&logo=apachespark&logoColor=FF3621)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-1B3139?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL_(basic)-1B3139?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-1B3139?style=flat-square&logo=pandas&logoColor=FF3621)
+![NumPy](https://img.shields.io/badge/NumPy-1B3139?style=flat-square&logo=numpy&logoColor=FF3621)
+![R](https://img.shields.io/badge/R_(basic)-1B3139?style=flat-square&logo=r&logoColor=FF3621)
+![Oracle](https://img.shields.io/badge/Oracle_(basic_admin)-1B3139?style=flat-square&logo=oracle&logoColor=FF3621)
 
-  </td>
-  <td valign="top" width="25%">
+</td>
+<td valign="top" width="25%">
 
 **Machine Learning & Viz**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=flat-square&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1B3139?style=flat-square&logo=scikitlearn&logoColor=FF3621)
+![XGBoost](https://img.shields.io/badge/XGBoost-1B3139?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-1B3139?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1B3139?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-1B3139?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI_(basic)-1B3139?style=flat-square)
 
-  </td>
-  <td valign="top" width="25%">
+</td>
+<td valign="top" width="25%">
 
-**Dev & Version Control**
+**Engineering Practices**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1B3139?style=flat-square&logo=git&logoColor=FF3621)
+![GitHub](https://img.shields.io/badge/GitHub-1B3139?style=flat-square&logo=github&logoColor=FF3621)
+![pytest](https://img.shields.io/badge/pytest-1B3139?style=flat-square&logo=pytest&logoColor=FF3621)
+![Jupyter](https://img.shields.io/badge/Jupyter-1B3139?style=flat-square&logo=jupyter&logoColor=FF3621)
+![Scrum](https://img.shields.io/badge/Scrum-1B3139?style=flat-square)
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## 🚀 Projects
+---
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🟠 Warehouse & Retail Sales ML
+### Network Intrusion Data Pipeline (Kitsune)
+**Databricks · Medallion Architecture · In progress**
 
-**Demand Forecasting · Databricks**
+Production-style pipeline over **2,771,276 network packets × 115 features** (UCI Kitsune, SYN DoS subset).
 
-Machine learning pipeline to predict monthly product demand for a wholesale liquor distributor, using 307,645 real sales transactions from a U.S. government dataset.
+`landing → bronze → silver → gold (next)`
 
-`data ingestion → cleaning → analysis → modeling → forecast`
+- Fail-fast data quality gates: schema contract, file size, row-count reconciliation, nulls, NaN/infinity, label domain and a post-write check
+- Resolved a paper-vs-source-code conflict on the order of 115 unnamed columns by checking statistical invariants in a single PySpark pass
+- Unity Catalog governance (dev catalog, per-layer schemas, comments, tags), Delta tables with liquid clustering, typed PySpark modules, PR-based Git workflow
 
-Compared 4 models. Best result: **LightGBM · 96.81% accuracy · mean error of $279 per prediction**, tested on 2020 data — a COVID year the model never saw during training.
+`PySpark` `Spark SQL` `Delta Lake` `Unity Catalog` `Git`
 
-`Python` `Apache Spark` `Delta Lake` `MLflow` `LightGBM` `XGBoost`
+[![Repo](https://img.shields.io/badge/View_Repository-FF3621?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/kitsune-network-anomaly-detection)
 
-[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
+</td>
+<td width="50%" valign="top">
 
-  </td>
-  <td width="50%" valign="top">
+### Warehouse & Retail Sales Forecasting
+**Databricks · Demand Forecasting**
 
-### 🔵 Churn Prediction
+Bronze → Silver → Gold pipeline turning **307K** U.S. government sales records into ML-ready Delta tables to forecast monthly product demand.
 
-**End-to-End ML Pipeline**
+`ingestion → cleaning → features → modeling → forecast`
 
-Production-style ML pipeline to predict customer churn from telecom data.
+- Compared 4 models with time-series cross-validation and a 2020 (COVID) hold-out
+- **LightGBM: R² 0.97 · MAE $279**, 23% below the linear baseline; registered in MLflow
+- Spark SQL cut data sent to pandas by **98.4%**
 
-`ingestion → validation → feature engineering → training → tuning → evaluation`
+`PySpark` `Delta Lake` `MLflow` `LightGBM` `XGBoost`
 
-Models: Logistic Regression · Random Forest · XGBoost · GridSearchCV
+[![Repo](https://img.shields.io/badge/View_Repository-FF3621?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/warehouse-retail-sales-ml)
 
-`Python` `Scikit-learn` `XGBoost` `Pandas`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/churn-prediction)
+### Customer Churn Prediction
+**Modular ML Pipeline**
 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+Pipeline for 7,043 telecom customers: validation, transformation, training, tuning and inference, covered by **8 pytest tests**.
 
-### 🟣 Kitsune Network Anomaly Detection
+- Leakage-safe preprocessing (imputer fit on training data only)
+- Logistic Regression vs. Random Forest vs. tuned XGBoost with threshold optimization
+- **AUC-ROC 0.85 · Recall 0.79**, prioritizing recall because missing a churner costs more than a false alarm
 
-**Network Intrusion Detection · Databricks — In progress**
+`scikit-learn` `XGBoost` `pandas` `pytest`
 
-Medallion Architecture pipeline built on the Kitsune Network Attack dataset (UCI, SYN DoS subset) to detect anomalous network traffic at scale.
+[![Repo](https://img.shields.io/badge/View_Repository-FF3621?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/churn-prediction)
 
-`bronze (raw ingestion) → silver (transformation) → gold (feature store / modeling)`
+</td>
+<td width="50%" valign="top">
 
-Bronze layer complete: Unity Catalog structure, Delta table with **2,771,276 rows**, 115 renamed features, labels joined via `monotonically_increasing_id()`. Silver transformation notebook next.
-
-`Python` `PySpark` `Databricks` `Delta Lake` `Unity Catalog`
-
-[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/kitsune-network-anomaly-detection)
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🟡 Zara Sales EDA
-
+### Zara Sales EDA
 **Exploratory Data Analysis**
 
-Deep-dive retail analytics uncovering revenue patterns, product performance, and seasonality trends across 22.2M units sold. Business-oriented visual storytelling.
+Retail analysis of **22.2M units** and **$884.6M** in revenue.
 
-`cleaning → univariate analysis → bivariate analysis → insights`
+- Jackets drive **55% of revenue** without being promoted more than other categories, a single-category concentration risk
+- Business-oriented visual storytelling for non-technical readers
 
-`Python` `Pandas` `Matplotlib` `Seaborn`
+`pandas` `Matplotlib` `Seaborn`
 
-[![Repo](https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
+[![Repo](https://img.shields.io/badge/View_Repository-FF3621?style=flat-square&logo=github&logoColor=white)](https://github.com/SantiLopBla/Zara-Sales-EDA)
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## 📜 Certifications
+---
 
-| Certificate | Issuer | Date | Verify |
+## Certifications
+
+| Certification | Issuer | Date | Verify |
 |---|---|---|---|
-| Get Started with Databricks for Machine Learning | Databricks Academy | Jun 2026 | [View on Wallet](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
-| Generative AI Fundamentals | Databricks Academy | May 2026 | [Link](https://credentials.databricks.com/77d2610b-0e6e-459f-ac92-d63373e33760#acc.Cc0L3UPG) |
-| Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 | [Link](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
-| Introduction to Python for DS & DE | Databricks Academy | Dec 2025 | [Link](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
-| Databricks Fundamentals | Databricks Academy | Nov 2025 | [Link](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
-| Introduction to Data Science | Cisco Networking Academy | Jun 2025 | [Link](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
-| Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 | [Link](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
-| Business Agility (BAPC) | Certiprof | Dec 2024 | [Link](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) |
-| Scrum Foundation (SFPC) | Certiprof | Dec 2024 | [Link](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
+| **Azure Databricks Data Engineer Associate (DP-750)** | Microsoft | Oct 2026 | [Credential](https://learn.microsoft.com/api/credentials/share/es-mx/SantiagoLpezBlanco-2204/6BC60448E3684F2?sharingId=E76EF72697970AEE) |
+| Google Cloud Computing Foundations | Google Cloud | Sep 2026 | [Credly](https://www.credly.com/badges/95a2dbda-fc95-4b11-be71-15df1b7b03b5/public_url) |
+| Get Started with Databricks for Machine Learning | Databricks Academy | Jun 2026 | [Wallet](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
+| Generative AI Fundamentals | Databricks Academy | May 2026 | [Credential](https://credentials.databricks.com/77d2610b-0e6e-459f-ac92-d63373e33760#acc.Cc0L3UPG) |
+| Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
+| Introduction to Python for DS & DE | Databricks Academy | Dec 2025 | [Credential](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
+| Databricks Fundamentals | Databricks Academy | Nov 2025 | [Credential](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
+| Introduction to Data Science | Cisco Networking Academy | Jun 2025 | [Credly](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
+| Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 | [Credly](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
+| Business Agility (BAPC) · Scrum Foundation (SFPC) | Certiprof | Dec 2024 | [BAPC](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) · [SFPC](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
 
-**In progress**
-- Microsoft Azure Databricks Data Engineer Associate (DP-750) — exam scheduled October 2026
-- Google Cloud Computing Foundations — Google Skills Boost (Universidad Latina & Google scholarship)
+---
 
-## 🌐 Languages
+## Languages
 
-| Language | Level |
-|---|---|
-| Spanish | Native |
-| English | B2 — Linguaskill (Cambridge) |
+**Spanish** — Native · **English** — B2, Cambridge Linguaskill (score 172)
 
-## 🤝 Let's connect
+---
 
 <div align="center">
 
-I'm open to opportunities in data science and analytics. Feel free to reach out.
+**Open to data engineering, analytics and data science opportunities.**
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-FF3621?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
+[![Databricks](https://img.shields.io/badge/Databricks_Credentials-1B3139?style=flat-square&logo=databricks&logoColor=FF3621)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-blanco-ds)
-[![Credly](https://img.shields.io/badge/View_my_badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-lopez-blanco)
-[![Databricks](https://img.shields.io/badge/Databricks_Profile-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3621,100:1B3139&height=6&section=footer" width="100%"/>
 
 </div>
