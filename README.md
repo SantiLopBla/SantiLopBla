@@ -161,7 +161,7 @@ Retail analysis of **22.2M units** and **$884.6M** in revenue.
 
 ## Languages
 
-**Spanish** — Native · **English** — B2, Cambridge Linguaskill (score 172)
+**Spanish** — Native · **English** — B2, Cambridge Linguaskill 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
