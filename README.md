@@ -12,7 +12,6 @@
 
 Data Science Engineering student at Universidad Fidélitas, Costa Rica (GPA 95.9/100, expected graduation Oct 2027). I build data pipelines on Databricks with PySpark, Delta Lake and Unity Catalog, with a focus on data quality: pipelines that validate data and fail fast instead of passing bad data downstream.
 
-I also lead a 4-person interdisciplinary university team building a multi-branch inventory system for a real pharmacy client.
 
 **Open to:** data engineering, data analytics and data science internships or entry-level roles · Costa Rica (GAM) or remote.
 
