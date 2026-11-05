@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="26"></a> <a href="https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet"><img src="assets/badges/databricks-cred.svg" alt="Databricks Credentials" height="26"></a> <a href="https://www.credly.com/users/santiago-lopez-blanco"><img src="assets/badges/credly.svg" alt="Credly" height="26"></a> <a href="mailto:santilopbla06@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="26"></a>
+<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="26"></a> <a href="https://www.credly.com/users/santiago-lopez-blanco"><img src="assets/badges/credly.svg" alt="Credly" height="26"></a> <a href="mailto:santilopbla06@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="26"></a>
 
 </div>
 
@@ -79,13 +79,13 @@ Production-style pipeline over **2,771,276 network packets × 115 features** (UC
 
 `landing → bronze → silver → EDA → gold (next)`
 
-- Found a feature-extractor bug in a public benchmark dataset: leaked Unix timestamps in the jitter features acted as a label shortcut (**99.6%** of leaked rows in the attack zone were attacks); removed the 10 affected features from the model-ready design before training
-- Hypothesis-driven EDA in PySpark: isolated a **2.68M-packet** attack-free training prefix and verified the data is in arrival order (window functions), supporting a chronological train/test split
-- Fail-fast quality gates: schema contract, row-count reconciliation, nulls, NaN/infinity, label domain and a post-write check
-- Resolved a paper-vs-source-code conflict on the order of 115 unnamed columns by checking statistical invariants in one PySpark pass
-- Unity Catalog governance (per-layer schemas, tags), Delta liquid clustering, typed PySpark modules, PR-based Git workflow
+- Found a feature-extractor bug in a public benchmark: leaked Unix timestamps in the jitter features acted as a label shortcut (**99.6%** of leaked rows in the attack zone were attacks); removed the 10 affected features before training
+- Hypothesis-driven EDA in PySpark: isolated a **2.68M-packet** attack-free training prefix and confirmed arrival order with window functions, supporting a chronological split
+- Fail-fast quality gates: schema contract, row-count reconciliation, nulls, NaN/infinity, label domain
+- Resolved a paper-vs-source-code conflict on column order by checking statistical invariants
+- Unity Catalog governance, Delta liquid clustering, typed PySpark modules, PR-based Git
 
-<img src="assets/badges/tag-pyspark.svg" alt="PySpark" height="22"> <img src="assets/badges/tag-spark-sql.svg" alt="Spark SQL" height="22"> <img src="assets/badges/tag-delta-lake.svg" alt="Delta Lake" height="22"> <img src="assets/badges/tag-unity-catalog.svg" alt="Unity Catalog" height="22"> <img src="assets/badges/tag-git.svg" alt="Git" height="22"> <img src="assets/badges/tag-eda.svg" alt="EDA" height="22">
+<img src="assets/badges/tag-pyspark.svg" alt="PySpark" height="22"> <img src="assets/badges/tag-spark-sql.svg" alt="Spark SQL" height="22"> <img src="assets/badges/tag-delta-lake.svg" alt="Delta Lake" height="22"> <img src="assets/badges/tag-unity-catalog.svg" alt="Unity Catalog" height="22"> <img src="assets/badges/tag-git.svg" alt="Git" height="22">
 
 <a href="https://github.com/SantiLopBla/kitsune-network-anomaly-detection"><img src="assets/badges/repo.svg" alt="View repository" height="26"></a>
 
@@ -93,15 +93,17 @@ Production-style pipeline over **2,771,276 network packets × 115 features** (UC
 <td width="50%" valign="top">
 
 ### Warehouse & Retail Sales Forecasting
-**Databricks · Demand Forecasting**
+**Databricks · Medallion Architecture · Demand Forecasting**
 
-Bronze → Silver → Gold pipeline turning **307K** U.S. government sales records into ML-ready Delta tables to forecast monthly product demand.
+End-to-end pipeline turning **307,645** U.S. government sales records into ML-ready Delta tables to forecast monthly product demand.
 
-`ingestion → cleaning → features → modeling → forecast`
+`bronze → silver → EDA → gold → model → dashboard`
 
-- Compared 4 models with time-series cross-validation and a 2020 (COVID) hold-out
-- **LightGBM: R² 0.97 · MAE $279**, 23% below the linear baseline; registered in MLflow
-- Spark SQL cut data sent to pandas by **98.4%**
+- Compared 4 models with 5-fold time-series cross-validation and a 2020 (COVID) hold-out
+- **LightGBM: R² 0.97 · MAE $279**, 23% below the linear baseline; registered in MLflow with its encoding artifacts
+- Picked LightGBM over XGBoost despite a worse CV score: it degraded only **+$24** on unseen 2020 data vs. **+$192** for XGBoost
+- Segment error analysis: identified KEGS (negative R²) and the March 2020 COVID shock as the model's limits
+- Spark SQL aggregations cut data sent to pandas by **98.4%**
 
 <img src="assets/badges/tag-pyspark.svg" alt="PySpark" height="22"> <img src="assets/badges/tag-delta-lake.svg" alt="Delta Lake" height="22"> <img src="assets/badges/tag-mlflow.svg" alt="MLflow" height="22"> <img src="assets/badges/tag-lightgbm.svg" alt="LightGBM" height="22"> <img src="assets/badges/tag-xgboost.svg" alt="XGBoost" height="22">
 
@@ -113,13 +115,17 @@ Bronze → Silver → Gold pipeline turning **307K** U.S. government sales recor
 <td width="50%" valign="top">
 
 ### Customer Churn Prediction
-**Modular ML Pipeline**
+**Python · Modular ML Pipeline**
 
-Pipeline for 7,043 telecom customers: validation, transformation, training, tuning and inference, covered by **8 pytest tests**.
+Production-style pipeline for **7,043 telecom customers × 21 features**, covered by **8 pytest tests**.
 
-- Leakage-safe preprocessing (imputer fit on training data only)
-- Logistic Regression vs. Random Forest vs. tuned XGBoost with threshold optimization
-- **AUC-ROC 0.85 · Recall 0.79**, prioritizing recall because missing a churner costs more than a false alarm
+`ingest → validate → transform → train → tune → evaluate`
+
+- Schema and range validation of all 21 input columns before any processing
+- Leakage-safe preprocessing: 70/15/15 split first, imputer fit on training data only
+- Logistic Regression vs. Random Forest vs. tuned XGBoost (GridSearchCV) with decision-threshold optimization
+- Best model (Logistic Regression): **AUC-ROC 0.85 · Recall 0.79**, prioritizing recall because missing a churner costs more than a false alarm
+- EDA: month-to-month contracts churn at **42.7%** vs. **2.6%** for two-year contracts
 
 <img src="assets/badges/tag-scikit-learn.svg" alt="scikit-learn" height="22"> <img src="assets/badges/tag-xgboost.svg" alt="XGBoost" height="22"> <img src="assets/badges/tag-pandas.svg" alt="pandas" height="22"> <img src="assets/badges/tag-pytest.svg" alt="pytest" height="22">
 
@@ -129,11 +135,16 @@ Pipeline for 7,043 telecom customers: validation, transformation, training, tuni
 <td width="50%" valign="top">
 
 ### Zara Sales EDA
-**Exploratory Data Analysis**
+**Python · Exploratory Data Analysis**
 
-Retail analysis of **22.2M units** and **$884.6M** in revenue.
+Retail analysis of **22.2M units** and **$884.6M** in revenue to find what drives sales by category.
 
-- Jackets drive **55% of revenue** without being promoted more than other categories, a single-category concentration risk
+`cleaning → concentration → promotions → price → seasonality`
+
+- Jackets drive **55% of revenue**, **3.41×** the next category: a single-category concentration risk
+- Ruled out promotions as the cause: promotion rates are flat across categories (40.5%–42.9%)
+- Price sensitivity: moderate negative correlation between price and volume (**r = −0.34**)
+- Seasonality: autumn is the peak season (7.99M units) and jackets lead in every season
 - Business-oriented visual storytelling for non-technical readers
 
 <img src="assets/badges/tag-pandas.svg" alt="pandas" height="22"> <img src="assets/badges/tag-matplotlib.svg" alt="Matplotlib" height="22"> <img src="assets/badges/tag-seaborn.svg" alt="Seaborn" height="22">
@@ -148,22 +159,24 @@ Retail analysis of **22.2M units** and **$884.6M** in revenue.
 
 ## Certifications
 
-| Certification | Issuer | Date | Verify |
-|---|---|---|---|
-| **Azure Databricks Data Engineer Associate (DP-750)** | Microsoft | Oct 2026 | [Credential](https://learn.microsoft.com/api/credentials/share/es-mx/SantiagoLpezBlanco-2204/6BC60448E3684F2?sharingId=E76EF72697970AEE) |
-| Google Cloud Computing Foundations | Google Cloud | Sep 2026 | [Credly](https://www.credly.com/badges/95a2dbda-fc95-4b11-be71-15df1b7b03b5/public_url) |
-| Get Started with Databricks for Machine Learning | Databricks Academy | Jun 2026 | [Wallet](https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet) |
-| Generative AI Fundamentals | Databricks Academy | May 2026 | [Credential](https://credentials.databricks.com/77d2610b-0e6e-459f-ac92-d63373e33760#acc.Cc0L3UPG) |
-| Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/EGLC12RFQOIY) |
-| Introduction to Python for DS & DE | Databricks Academy | Dec 2025 | [Credential](https://credentials.databricks.com/78bb0747-02bc-4b2c-b4b3-a6f236b3e3f7?username=santiagolpezblanco626690) |
-| Databricks Fundamentals | Databricks Academy | Nov 2025 | [Credential](https://credentials.databricks.com/c719f1f7-b09d-4200-82bd-655af8a58746) |
-| Introduction to Data Science | Cisco Networking Academy | Jun 2025 | [Credly](https://www.credly.com/badges/23d5627c-938d-4be2-afa9-453274165685/public_url) |
-| Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 | [Credly](https://www.credly.com/earner/earned/badge/d72c334d-9f7e-48f8-af2e-0cbc9012a40b) |
-| Business Agility (BAPC) · Scrum Foundation (SFPC) | Certiprof | Dec 2024 | [BAPC](https://www.credly.com/earner/earned/badge/54dcaaf5-5829-4173-a37e-458890afb7af) · [SFPC](https://www.credly.com/earner/earned/badge/c8bd637e-2e65-4361-8123-c5ba4f1ca447) |
+| Certification | Issuer | Date |
+|---|---|---|
+| **Azure Databricks Data Engineer Associate (DP-750)** | Microsoft | Oct 2026 |
+| Google Cloud Computing Foundations | Google Cloud | Sep 2026 |
+| Get Started with Databricks for Machine Learning | Databricks Academy | Jun 2026 |
+| Generative AI Fundamentals | Databricks Academy | May 2026 |
+| Machine Learning Specialization | Stanford Online / DeepLearning.AI | May 2026 |
+| Introduction to Python for DS & DE | Databricks Academy | Dec 2025 |
+| Databricks Fundamentals | Databricks Academy | Nov 2025 |
+| Introduction to Data Science | Cisco Networking Academy | Jun 2025 |
+| Business Intelligence Foundation (BIFPC) | Certiprof | Jan 2025 |
+| Business Agility (BAPC) · Scrum Foundation (SFPC) | Certiprof | Dec 2024 |
+
+> To verify any credential, see the **Licenses & certifications** section of my [LinkedIn](https://www.linkedin.com/in/santiago-lopez-blanco-ds).
 
 ## Languages
 
-**Spanish** — Native · **English** — B2, Cambridge Linguaskill 
+**Spanish** — Native · **English** — B2, Cambridge Linguaskill
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -171,6 +184,6 @@ Retail analysis of **22.2M units** and **$884.6M** in revenue.
 
 **Open to data engineering, analytics and data science opportunities.**
 
-<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/connect.svg" alt="Connect on LinkedIn" height="26"></a> <a href="https://credentials.databricks.com/profile/santiagolpezblanco626690/wallet"><img src="assets/badges/databricks-cred.svg" alt="Databricks Credentials" height="26"></a>
+<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/connect.svg" alt="Connect on LinkedIn" height="26"></a>
 
 </div>
