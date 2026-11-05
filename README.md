@@ -4,7 +4,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="26"></a> <a href="https://www.credly.com/users/santiago-lopez-blanco"><img src="assets/badges/credly.svg" alt="Credly" height="26"></a> <a href="mailto:santilopbla06@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="26"></a>
+<a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="26"></a> <a href="https://www.credly.com/users/santiago-lopez-blanco"><img src="assets/badges/credly.svg" alt="Credly" height="26"></a> <a href="https://www.linkedin.com/in/santiago-lopez-blanco-ds"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="26"></a> <a href="https://www.credly.com/users/santiago-lopez-blanco"><img src="assets/badges/credly.svg" alt="Credly" height="26"></a> <a href="mailto:santilopbla06@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="26"></a>
+
+<sub>santilopbla06@gmail.com</sub>
 
 </div>
 
