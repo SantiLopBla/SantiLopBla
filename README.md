@@ -77,13 +77,15 @@ Data Science Engineering student at Universidad Fidélitas, Costa Rica (GPA 95.9
 
 Production-style pipeline over **2,771,276 network packets × 115 features** (UCI Kitsune, SYN DoS subset).
 
-`landing → bronze → silver → gold (next)`
+`landing → bronze → silver → EDA → gold (next)`
 
-- Fail-fast data quality gates: schema contract, file size, row-count reconciliation, nulls, NaN/infinity, label domain and a post-write check
-- Resolved a paper-vs-source-code conflict on the order of 115 unnamed columns by checking statistical invariants in a single PySpark pass
-- Unity Catalog governance (dev catalog, per-layer schemas, comments, tags), Delta tables with liquid clustering, typed PySpark modules, PR-based Git workflow
+- Found a feature-extractor bug in a public benchmark dataset: leaked Unix timestamps in the jitter features acted as a label shortcut (**99.6%** of leaked rows in the attack zone were attacks); removed the 10 affected features from the model-ready design before training
+- Hypothesis-driven EDA in PySpark: isolated a **2.68M-packet** attack-free training prefix and verified the data is in arrival order (window functions), supporting a chronological train/test split
+- Fail-fast quality gates: schema contract, row-count reconciliation, nulls, NaN/infinity, label domain and a post-write check
+- Resolved a paper-vs-source-code conflict on the order of 115 unnamed columns by checking statistical invariants in one PySpark pass
+- Unity Catalog governance (per-layer schemas, tags), Delta liquid clustering, typed PySpark modules, PR-based Git workflow
 
-<img src="assets/badges/tag-pyspark.svg" alt="PySpark" height="22"> <img src="assets/badges/tag-spark-sql.svg" alt="Spark SQL" height="22"> <img src="assets/badges/tag-delta-lake.svg" alt="Delta Lake" height="22"> <img src="assets/badges/tag-unity-catalog.svg" alt="Unity Catalog" height="22"> <img src="assets/badges/tag-git.svg" alt="Git" height="22">
+<img src="assets/badges/tag-pyspark.svg" alt="PySpark" height="22"> <img src="assets/badges/tag-spark-sql.svg" alt="Spark SQL" height="22"> <img src="assets/badges/tag-delta-lake.svg" alt="Delta Lake" height="22"> <img src="assets/badges/tag-unity-catalog.svg" alt="Unity Catalog" height="22"> <img src="assets/badges/tag-git.svg" alt="Git" height="22"> <img src="assets/badges/tag-eda.svg" alt="EDA" height="22">
 
 <a href="https://github.com/SantiLopBla/kitsune-network-anomaly-detection"><img src="assets/badges/repo.svg" alt="View repository" height="26"></a>
 
